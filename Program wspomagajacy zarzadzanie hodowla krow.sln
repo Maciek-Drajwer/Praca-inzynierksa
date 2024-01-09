@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program wspomagajacy zarzadzanie hodowla krow", "Program wspomagajacy zarzadzanie hodowla krow\Program wspomagajacy zarzadzanie hodowla krow.csproj", "{EF0B6D50-159A-4BD1-9091-5E978EEF2349}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF0B6D50-159A-4BD1-9091-5E978EEF2349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0B6D50-159A-4BD1-9091-5E978EEF2349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0B6D50-159A-4BD1-9091-5E978EEF2349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0B6D50-159A-4BD1-9091-5E978EEF2349}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35147C8E-E992-4066-9C5D-ED03BA98B127}
+	EndGlobalSection
+EndGlobal
